@@ -165,9 +165,9 @@ Her depo, bu yolculuğun farklı bir parçası.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alleyna-lab&custom_title=Katk%C4%B1%20Yolculu%C4%9Fum&bg_color=0D1117&color=C4B5FD&line=A78BFA&point=F0ABFC&area=true&area_color=7C3AED&hide_border=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aleynaalmima-create&custom_title=Katk%C4%B1%20Yolculu%C4%9Fum&bg_color=0D1117&color=C4B5FD&line=A78BFA&point=F0ABFC&area=true&area_color=7C3AED&hide_border=true&radius=16"
     width="100%"
-    alt="Alleyna-lab katkı aktivitesi grafiği"
+    alt="Aleyna'nın GitHub katkı grafiği"
   />
 </p>
 
