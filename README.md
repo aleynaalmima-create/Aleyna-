@@ -2,39 +2,33 @@
 README
 <div align="center">
 
-# Hi, I'm [Adın] ✦
-### Turning curiosity into code.
+# Merhaba, Ben [Aleyna] ✦
+### Merakı koda dönüştürmek.
 
 Yazılım geliştiriyorum, yeni fikirleri deniyorum ve öğrendiklerimi burada paylaşıyorum.
 
-[Projelerim](https://github.com/Alleyna-lab?tab=repositories) · [LinkedIn](LINKEDIN_ADRESIN) · [Portfolio](PORTFOLYO_ADRESIN)
+[Projelerim](https://github.com/Alleyna-lab?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/s%C4%B1la-aleyna-selbi-83102841a/) 
 
 </div>
 
 ---
 
-### ✦ Behind the code
+### ✦ Kodun ardında
 
-- 🔭 Şu anda **[projen / çalışma alanın]** üzerine çalışıyorum.
-- 🌱 **[öğrendiğin teknolojiler]** öğreniyorum.
-- 💡 **[ilgi alanların]** hakkında üretmeyi seviyorum.
-- ⚡ Kod dışında: **[seni anlatan küçük bir detay]**
+- 🔭 Şu anda **[adawebyazılım bünyesinde / web geliştiri]** olarak çalışıyorum.
+- 🌱 **[etkili ve dinamik web geliştirme teknolojileri]** öğreniyorum.
+- 💡 **[Oyun ve Siber]** hakkında üretmeyi seviyorum.
+- ⚡ Kod dışında: **[bideo oyunları oynarım.]**
 
-### ✦ My toolkit
+### ✦ Araç Çantam
 
 `[Teknoloji]` · `[Teknoloji]` · `[Teknoloji]` · `[Teknoloji]`
 
-### ✦ Selected projects
-
-| Proje | Ne yapıyor? | Teknolojiler |
-| :--- | :--- | :--- |
-| [Proje adı](PROJE_LINKI) | Çözdüğü problemi anlatan kısa bir cümle. | ... |
-| [Proje adı](PROJE_LINKI) | Çözdüğü problemi anlatan kısa bir cümle. | ... |
 
 ---
 
 <div align="center">
 
-<sub>Always curious. Always building.</sub>
+<sub>Her zaman meraklı. Her zaman üretiyor.</sub>
 
 </div>
