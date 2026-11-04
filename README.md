@@ -82,12 +82,6 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
   <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A78BFA" alt="C" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=A78BFA" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=A78BFA" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=A78BFA" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=A78BFA" alt="Rust" />
-  <img src="https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=A78BFA" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=A78BFA" alt="Swift" />
-  <img src="https://img.shields.io/badge/Ruby-161B22?style=flat-square&logo=ruby&logoColor=A78BFA" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=A78BFA" alt="Dart" />
 </p>
 
 <h3>🌐 Web Teknolojileri</h3>
