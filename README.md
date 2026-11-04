@@ -53,7 +53,7 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
 ```text
 ╭──────────────────────────────────────────────╮
 │                                              │
-│   aleynaalmima-create:~$ merhaba                      │
+│   aleynaalmima-create:~$ merhaba             │
 │                                              │
 │   Burası fikirlerin denemeye,                 │
 │   denemelerin projeye dönüştüğü yer.          │
@@ -100,10 +100,6 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
   />
 </p>
 
-<!--
-Kullandığın teknolojileri göstermek için aşağıdaki görseli
-bu yorum bloğunun dışına taşı ve ikon listesini düzenle.
-Örnek listedeki teknolojileri yalnızca gerçekten kullanıyorsan ekle.
 
 <p align="center">
   <img
