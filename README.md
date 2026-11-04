@@ -149,12 +149,6 @@ Her depo, bu yolculuğun farklı bir parçası.
     height="170"
     alt="aleynaalmima-create GitHub istatistikleri"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alleyna-lab&locale=tr&custom_title=En%20%C3%87ok%20Kulland%C4%B1%C4%9F%C4%B1m%20Diller&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&border_radius=16"
-    height="170"
-    alt="Herkese açık depolarımda en çok kullandığım diller"
-  />
-</p>
 
 <p align="center">
   <img
