@@ -29,13 +29,13 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
 
 <br />
 
-<a href="https://github.com/Alleyna-lab?tab=repositories">
+<a href="https://github.com/aleynaalmima-create?tab=repositories">
   <img
     src="https://img.shields.io/badge/Projelerimi_Ke%C5%9Ffet-A78BFA?style=for-the-badge&logo=github&logoColor=0D1117"
     alt="Projelerimi keşfet"
   />
 </a>
-<a href="https://github.com/Alleyna-lab?tab=stars">
+<a href="https://github.com/aleynaalmima-create?tab=stars">
   <img
     src="https://img.shields.io/badge/%C4%B0lham_Kaynaklar%C4%B1m-161B22?style=for-the-badge&logo=github&logoColor=C4B5FD"
     alt="İlham kaynaklarım"
@@ -53,7 +53,7 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
 ```text
 ╭──────────────────────────────────────────────╮
 │                                              │
-│   alleyna@lab:~$ merhaba                      │
+│   aleynaalmima-create:~$ merhaba                      │
 │                                              │
 │   Burası fikirlerin denemeye,                 │
 │   denemelerin projeye dönüştüğü yer.          │
@@ -71,6 +71,31 @@ Kodların, denemelerin ve gerçeğe dönüşen fikirlerin buluştuğu küçük k
 <br />
 
 <!-- ═══════════════════ TEKNOLOJİLER ═══════════════════ -->
+<h2>⚡ Kullandığım Diller</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=A78BFA" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=dotnet&logoColor=A78BFA" alt="C# (.NET)" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=A78BFA" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=A78BFA" alt="C++" />
+  <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A78BFA" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=A78BFA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=A78BFA" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=A78BFA" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=A78BFA" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=A78BFA" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=A78BFA" alt="Swift" />
+  <img src="https://img.shields.io/badge/Ruby-161B22?style=flat-square&logo=ruby&logoColor=A78BFA" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=A78BFA" alt="Dart" />
+</p>
+
+<h3>🌐 Web Teknolojileri</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=A78BFA" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css&logoColor=A78BFA" alt="CSS3" />
+</p>
 
 ## ⚡ Araç çantam
 
