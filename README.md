@@ -145,9 +145,9 @@ Her depo, bu yolculuğun farklı bir parçası.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Alleyna-lab&locale=tr&custom_title=GitHub%20%C4%B0statistiklerim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA&border_radius=16"
+    src="https://streak-stats.demolab.com?user=aleynaalmima-create&locale=tr&theme=tokyonight&hide_border=true"
     height="170"
-    alt="Alleyna-lab GitHub istatistikleri"
+    alt="aleynaalmima-create GitHub istatistikleri"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alleyna-lab&locale=tr&custom_title=En%20%C3%87ok%20Kulland%C4%B1%C4%9F%C4%B1m%20Diller&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&border_radius=16"
