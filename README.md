@@ -1,7 +1,6 @@
 # Aleyna-
 README
 
-````markdown
 <!-- ═══════════════════ KARŞILAMA ═══════════════════ -->
 
 <p align="center">
